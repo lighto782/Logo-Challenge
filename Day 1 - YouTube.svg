@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   sodipodi:docname="Day 1 - YouTube.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="9.2368348"
+     inkscape:cx="22.572667"
+     inkscape:cy="23.113978"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect41"
+       style="fill:#ff0000;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="m 10.95806,13.985747 c 0,0 3.985222,-0.920229 13.04194,-0.97436 9.056718,-0.05413 13.04194,0.97436 13.04194,0.97436 1.471467,0 2.656078,1.031975 2.656078,2.313844 0,0 0.535871,2.760465 0.535871,7.700409 0,4.939944 -0.535871,7.700409 -0.535871,7.700409 0,1.281869 -1.184611,2.313844 -2.656078,2.313844 0,0 -3.327231,0.866098 -13.04194,0.811966 -9.714709,-0.05413 -13.04194,-0.811966 -13.04194,-0.811966 -1.468624,-0.09143 -2.6560781,-1.031975 -2.6560781,-2.313844 0,0 -0.6124234,-2.828913 -0.6124234,-7.700409 0,-4.871496 0.6124234,-7.700409 0.6124234,-7.700409 0.1016278,-1.277834 1.1846106,-2.313844 2.6560781,-2.313844 z"
+       sodipodi:nodetypes="szsszsszsczss" />
+    <path
+       d="m 24,13.011719 c -9.056718,0.05413 -13.041016,0.974609 -13.041016,0.974609 -1.4714671,0 -2.5546218,1.034666 -2.6562496,2.3125 0,0 -0.6132813,2.829676 -0.6132813,7.701172 0,4.871496 0.6132813,7.701172 0.6132813,7.701172 0,1.281869 1.187626,2.22107 2.6562496,2.3125 0,0 3.326307,0.75837 13.041016,0.8125 9.714709,0.05413 13.041016,-0.8125 13.041016,-0.8125 1.471467,0 2.65625,-1.030631 2.65625,-2.3125 0,0 0.537109,-2.761228 0.537109,-7.701172 0,-4.939944 -0.537109,-7.701172 -0.537109,-7.701172 0,-1.281869 -1.184783,-2.3125 -2.65625,-2.3125 0,0 -3.984298,-1.028739 -13.041016,-0.974609 z"
+       style="fill:#ff0000;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path43" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.18932;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path42"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="23.961723"
+       sodipodi:cy="23.918989"
+       sodipodi:r1="10.739533"
+       sodipodi:r2="5.3697667"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 34.701257,23.918989 -16.1093,9.300709 0,-18.601418 z"
+       inkscape:transform-center-x="-1.2263544"
+       transform="matrix(0.45676254,0,0,0.45676254,13.016906,12.993691)" />
+  </g>
+</svg>
